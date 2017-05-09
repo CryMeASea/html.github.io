@@ -1,0 +1,139 @@
+html {
+    
+    background-color: cornflowerblue
+}
+body { 
+font-family: cursive; 
+background-color: aquamarine ;
+    
+}
+#top {
+    
+    background-color: aqua;
+    font-family: fantasy;
+    font-size: 45;
+    border-style: solid;
+    border-width: 8px
+}
+#shop {
+    
+    background-color:deepskyblue;
+    color: red;
+    font-weight: bold;
+    border-style: dashed;
+    border-width: 5px;
+    font-size: 40
+}
+#iphone {
+    vertical-align: middle;
+    clear: right;
+   
+    padding-left: 100;
+        
+    padding-bottom: 50
+    
+    
+}
+#list { 
+
+font-style: oblique;
+    font-variant: inherit;
+    font-variant-position: sub;
+    font-size: 45;
+    font-family: Georgia;
+}
+
+#computer { 
+vertical-align: middle;
+    padding-left: 275;
+    
+    padding-top: 50
+}
+
+#middle {
+    
+    border-style: double;
+    border-color: blueviolet;
+    border-width: 9;
+}
+#gaming {
+    
+    vertical-align: middle;
+    clear: right;
+    padding-top: 100;
+    padding-left: 40;
+}
+
+#about{
+    
+    font-family: calibri;
+    font-size: 20;
+    border-right-style: double;
+    border-right-color: skyblue;
+    border-right-width: 6;
+    padding-right: 20;
+    
+}
+#address{
+    background-color: aqua;
+    font-size: 30;
+}
+#back{ 
+font-family: calibri;
+    font-size: 20;
+text-align: center;
+    vertical-align:middle;
+}
+a:link {color: cadetblue; }
+a:active {color: red; }
+a:visited {color: blue;}
+a:hover { color: deeppink}
+
+#console {
+   font-family:serif;
+    text-align: center;
+    align-content: center;
+    border-bottom-style: dashed;
+    border-bottom-width: 3;
+    border-bottom-color: orangered;
+    
+
+}
+#one {
+    text-align: left;
+    width: auto;
+    vertical-align: text-bottom;
+    
+}
+#one img {
+    display: inline-block;
+    margin: auto;
+    vertical-align: text-bottom;
+    
+}
+.consoles img {
+    
+    
+    width:245;
+   
+}
+#why {
+    
+     font-family:fantasy;
+    font-weight:bold;
+}    
+#back  {
+    border-style: ridge;
+    border-color:chocolate
+}
+.coolPC img {
+    
+    
+    width: 245;
+    height: 175
+}
+.phones img {
+    width: 245;
+    height: 170
+    
+}
